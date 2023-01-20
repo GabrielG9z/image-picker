@@ -31,7 +31,8 @@
       [
         "expo-image-picker",
         {
-          "photosPermission": "O app abre sua galeria de fotos para você compartilhar com seus amigos"
+          "photosPermission": "O app abre sua galeria de fotos para você compartilhar com seus amigos",
+          "cameraPermission": "O app acessa recursos da câmera"
         }
       ]
     ]

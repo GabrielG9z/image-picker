@@ -1,3 +1,9 @@
+# Referências
+
+## 02-recursos-da-camera
+
+---
+
 `npx expo install expo-image-picker`
 
 ### Configuração de permissões necessária no arquivo app.json:
